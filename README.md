@@ -1,1 +1,1 @@
-Code examples from my thesis 'A Proof of Quantumness'
+Code examples from my honours thesis 'A Proof of Quantumness'
